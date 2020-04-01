@@ -2,7 +2,7 @@
 layout: post
 title:  "DONACIONES A LA INVESTIGACIÓN POR COVID-19 EN EL CSIC"
 date:   2020-04-01
-excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
+excerpt: ""
 image: "/images/pic02.jpg"
 ---
 
