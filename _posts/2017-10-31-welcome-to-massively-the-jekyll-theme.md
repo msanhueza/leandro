@@ -1,28 +1,29 @@
 ---
 layout: post
-title:  "Welcome to Massively: The Jekyll Theme!"
-date:   2017-10-31
+title:  "DONACIONES A LA INVESTIGACIÓN POR COVID-19 EN EL CSIC"
+date:   2020-04-01
 excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
 image: "/images/pic02.jpg"
 ---
 
-## How to Use This Theme
-Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
+## Pasos a seguir para hacer una donación al Consejo Superior de Investigaciones Científicas:
 
-Download this repository [here](https://github.com/iwiedenm/jekyll-theme-massively) and save it to any folder you want.
+1-Para iniciar este trámite, primero deberás escribir un mail a:
+```gabinete.presidencia@csic.es```
 
-Open a terminal window or a command line and ```cd``` to that location.
+En el cual explicarás tu intención de hacer una donación para la investigación en el CSIC
 
-Then enter: ```bundle exec jekyll serve```. You can now access your new Jekyll site from [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Have fun exploring your new site!
+2-Te devolverán un correo, en el cual te explicarán los conceptos a concretar en tu donación, así como el número de cuenta:
 
-## Features
-### Auto-Generating Sitemap
-The sitemap is auto generated! Just simply change the front matter of each site. It looks like so...
-```
-sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
-```
-### Formspring integration
-The contact form below each page on the footer actually collects information! Just change your email address in the ```_config.yml``` file!
+IMAGE 1
+
+Esto podrían hacerlo directamente, pero debido a que es normal que desconfíes, puedes ponerte en contacto con:
+
+Unidad de Comercialización y Contratos Unit of Commercialization and Contracts
+Tel.: (+34) 91 568 15 21;  Fax: (+34) 91 568 15 51 
+
+Como sabes allí se están desarrollando diferentes investigaciones sobre posibles vacunas y tratamientos para el COVID-19, como muestran las noticias asociadas a este organismo
+
+IMAGE 2
+
+Espero que esta guía te haya podido ayudar.
