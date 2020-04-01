@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: Sobre mí
+description: Sobre mí
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
@@ -11,17 +11,27 @@ sitemap:
 
 <span class="image left"><img src="{{ "/images/leandro.jpg" | absolute_url }}" alt="" /></span>
 
-Hola!, mi nombre es Leandro Caamaño... Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+Mi nombre es Leandro Caamaño soy doctor en Ciencias de la Salud, docente en una pequeña universidad de Cantabria e investigador. Siempre me he considerado una persona inquieta, curiosa y optimista. Una de mis grandes pasiones es viajar por el mundo y es aquí donde he aprendido que todos somos parte de ESTE TODO, que la desigualdad, el dolor y la pobreza ajena, no deben resultarnos insignificantes. 
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+En esta situación tan extraña que nos toca vivir, se han dado la mano infinidad de factores que me han hecho pensar que esta situación exige una parte de solución por nuestra parte, sin entrar a valorar las soluciones tomadas por nuestro gobierno. Es ahí cuando una de las frases que me he repetido constantemente en mi vida, cuando algo no me gustaba, cobra un especial sentido: 
 
-### Content is Imortant
+### “¿QUÉ PUEDES HACER TÚ, POR CAMBIAR ALGO DE ESTA SITUACIÓN?” 
 <div class="box">
   <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
+Pues bien, aquí es donde el optimismo, a pesar de las circunstancias, ya que seguimos respirando y eso significa que podemos luchar, me lleva a lanzar esta iniciativa. 
+
+Sé que hablar de dinero en una situación incierta como esta, da mucho miedo, pero acaso da menos miedo la muerte de un ser querido, de un conocido, de un abuelo. 
+
+En fin, en la medida que cada uno pueda, si se puede: ¿No crees que un esfuerzo, que se multiplica por 4, tendría sentido si salva vidas?  
+
+Y si eres de los que no puede, deseo que mejore tu situación, de corazón. Mediante la divulgación de este mensaje, de esta página, ¡ya estarás SALVANDO VIDAS! 
   </p>
 </div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+<!-- <span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span> -->
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+Gracias a todos los que leáis, divulguéis y colaboréis con esta iniciativa.  
+
+Salud para todos, 
+
+Leandro Caamaño 
