@@ -17,8 +17,8 @@ instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
+location:           España
+phone:              XXXXXXXXX
 email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
@@ -31,12 +31,12 @@ defaults:
     path: ''
     type: posts
   values:
-    permalink: "/blog/:title/"
+    permalink: "/donation/:title/"
     layout: post
     author:
 
 # Jekyll
-permalink:          /blog/:title/
+permalink:          /donation/:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
@@ -59,7 +59,7 @@ gems:
   - jekyll-paginate
 
 paginate: 6
-paginate_path: "/blog/page:num/"
+paginate_path: "/donation/page:num/"
 
 jekyll-mentions:
     base_url: https://github.com
