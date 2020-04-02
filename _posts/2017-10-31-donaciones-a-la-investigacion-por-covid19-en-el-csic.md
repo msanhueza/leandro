@@ -15,7 +15,7 @@ En el cual explicarás tu intención de hacer una donación para la investigaci�
 
 2-Te devolverán un correo, en el cual te explicarán los conceptos a concretar en tu donación, así como el número de cuenta:
 
-IMAGE 1
+<span class="image"><img src="{{ "/images/leandro.jpg" | absolute_url }}" alt="" /></span>
 
 Esto podrían hacerlo directamente, pero debido a que es normal que desconfíes, puedes ponerte en contacto con:
 
@@ -24,6 +24,6 @@ Tel.: (+34) 91 568 15 21;  Fax: (+34) 91 568 15 51
 
 Como sabes allí se están desarrollando diferentes investigaciones sobre posibles vacunas y tratamientos para el COVID-19, como muestran las noticias asociadas a este organismo
 
-IMAGE 2
+<span class="image"><img src="{{ "/images/leandro.jpg" | absolute_url }}" alt="" /></span>
 
 Espero que esta guía te haya podido ayudar.
