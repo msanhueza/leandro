@@ -3,7 +3,7 @@ layout: post
 title:  "DONACIONES A LA INVESTIGACIÓN POR COVID-19 EN EL CSIC"
 date:   2020-04-01
 excerpt: ""
-image: "/images/pic02.jpg"
+image: "/images/csic-logo.png"
 ---
 
 ## Pasos a seguir para hacer una donación al Consejo Superior de Investigaciones Científicas:
