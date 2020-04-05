@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "DONACIONES A LA INVESTIGACIÓN POR COVID-19 EN EL CSIC"
 date:   2020-04-01
 excerpt: ""
