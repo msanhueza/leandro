@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: Info Donaciones
 description: 
 sitemap:
