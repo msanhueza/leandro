@@ -16,7 +16,7 @@ En el cual explicarás tu intención de hacer una donación para la investigaci�
 2-Te devolverán un correo, en el cual te explicarán los conceptos a concretar en tu donación, así como el número de cuenta:
 
 <span class="image"><img src="{{ "/images/donacion-csic-1.jpg" | absolute_url }}" alt="" width="900" height="500"/></span>
-<span class="responsive"><img src="{{ "/images/leandro.jpg" | absolute_url }}" alt="" /></span>
+<img src="{{ "/images/leandro.jpg" | absolute_url }}" alt="" class="responsive"/>
 
 Esto podrían hacerlo directamente, pero debido a que es normal que desconfíes, puedes ponerte en contacto con:
 
