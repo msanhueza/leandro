@@ -24,6 +24,6 @@ Tel.: (+34) 91 568 15 21;  Fax: (+34) 91 568 15 51
 
 Como sabes allí se están desarrollando diferentes investigaciones sobre posibles vacunas y tratamientos para el COVID-19, como muestran las noticias asociadas a este organismo
 
-<img src="{{ "/images/donacion-csic-2.jpg" | absolute_url }}" alt="" class"responsive" />
+<img src="{{ "/images/donacion-csic-1.jpg" | absolute_url }}" alt="" width="900" height="500" class="responsive"/>
 
 Espero que esta guía te haya podido ayudar.
