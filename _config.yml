@@ -12,14 +12,14 @@ disqus_shortname:   default
 # Social
 analytics-id:       "default"
 twitter:            default
-facebook:           default
+facebook:           https://www.facebook.com/docleandro.caamano.9
 instagram:          default
 github:             default
 
 # personal
 location:           España
 phone:              XXXXXXXXX
-email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+email:              lhcaamano@hotmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/bg.jpg
